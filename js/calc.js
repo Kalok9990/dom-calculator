@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function(){
     })
   }
 
-  //Equation
+  //Equation calculation
   var equal = document.querySelector(".equals");
   equal.addEventListener("click", eqtn);
   function eqtn(){
