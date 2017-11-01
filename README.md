@@ -17,3 +17,5 @@ There was the initial panic and confusion when told the homework, most likely du
 ## Pleased
 * Added a zero button
 * Managed to calculate more than one input
+
+__Managed to accomplish all in the list__
