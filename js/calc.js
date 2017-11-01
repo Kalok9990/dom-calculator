@@ -22,6 +22,8 @@ document.addEventListener("DOMContentLoaded", function(){
     var str = Nums.join("");
     var total =eval(str);
     screen.innerHTML = total;
+    Nums = [];
+    Nums.push(total);
   }
 
   //Press AC to clear
